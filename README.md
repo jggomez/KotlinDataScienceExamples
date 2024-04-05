@@ -2,7 +2,7 @@
 
 [Kotlin]([https://spark.apache.org/](https://kotlinlang.org/)) is a programming language that makes coding concise, cross-platform, and fun. It is Google's preferred language for Android app development.
 
-There are some examples of how to use [Kotlin in Data Science] ([https://spark.apache.org/docs/latest/api/python/index.html](https://kotlinlang.org/docs/data-science-overview.html#kotlin-libraries))
+There are some examples of how to use [Kotlin in Data Science](https://kotlinlang.org/docs/data-science-overview.html#kotlin-libraries)
 
     - Examples with DataFrame: how to use Dataframes with Kotlin
     - Examples with Kandy Plotting Library: Kandy is an open-source plotting library for Kotlin that provides a powerful and flexible DSL for creating charts
